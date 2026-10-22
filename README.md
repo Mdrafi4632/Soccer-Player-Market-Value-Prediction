@@ -21,7 +21,7 @@ The project focuses on four main tasks:
 
 The dataset is **Football Players Data**, published on Kaggle by Masood Ahmed and collected from **SoFIFA** between **October 18 and October 31, 2023**.
 
-**Dataset:** [Football Players Data on Kaggle](https://www.kaggle.com/datasets/masoodahmed/football-players-data)
+**Dataset:** https://www.kaggle.com/datasets/maso0dahmed/football-players-data
 
 | Category | Examples |
 | --- | --- |
